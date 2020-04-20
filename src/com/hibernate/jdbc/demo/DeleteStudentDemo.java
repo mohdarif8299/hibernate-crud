@@ -16,6 +16,9 @@ public class DeleteStudentDemo {
 		// create session
 		Session session = factory.getCurrentSession();
 		try {
+			
+			
+			
 
 			// starting the transaction
 			System.out.println("Starting the transaction");
